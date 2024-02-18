@@ -1,8 +1,8 @@
-package org.example.acmwwh.common.enums.str;
+package org.example.acmwwh.demo.strategy.instance;
 
-import org.example.acmwwh.common.util.str.StrHandler;
-import org.example.acmwwh.common.util.str.StrLowerHandler;
-import org.example.acmwwh.common.util.str.StrReplaceHandler;
+import org.example.acmwwh.demo.strategy.StrHandler;
+import org.example.acmwwh.demo.strategy.StrLowerHandler;
+import org.example.acmwwh.demo.strategy.StrReplaceHandler;
 
 /**
  * @description 字符串处理对象枚举类

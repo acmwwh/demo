@@ -1,8 +1,8 @@
-package org.example.acmwwh.common.util.str;
-
-import org.example.acmwwh.core.exception.BusinessException;
+package org.example.acmwwh.demo.strategy;
 
 import java.util.Objects;
+
+import org.example.acmwwh.core.exception.BusinessException;
 
 /**
  * @description 字符串处理抽象类

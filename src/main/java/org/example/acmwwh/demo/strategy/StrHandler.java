@@ -1,4 +1,4 @@
-package org.example.acmwwh.common.util.str;
+package org.example.acmwwh.demo.strategy;
 
 /**
  * @description 字符串处理接口类

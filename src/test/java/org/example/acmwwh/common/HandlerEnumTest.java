@@ -1,8 +1,8 @@
 package org.example.acmwwh.common;
 
 import lombok.extern.slf4j.Slf4j;
-import org.example.acmwwh.common.enums.str.StrHandlerClassEnum;
-import org.example.acmwwh.common.enums.str.StrHandlerObjEnum;
+import org.example.acmwwh.demo.strategy.reflect.StrHandlerClassEnum;
+import org.example.acmwwh.demo.strategy.instance.StrHandlerObjEnum;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
