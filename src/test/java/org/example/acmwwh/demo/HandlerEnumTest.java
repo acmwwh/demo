@@ -1,4 +1,4 @@
-package org.example.acmwwh.common;
+package org.example.acmwwh.demo;
 
 import lombok.extern.slf4j.Slf4j;
 import org.example.acmwwh.demo.strategy.reflect.StrHandlerClassEnum;
